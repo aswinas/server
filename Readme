@@ -1,0 +1,9 @@
+
+This is a server prog written in c by Aswin.A.S.
+Only Get method for fetching an html page is implemented.
+
+Usage: make
+       execute the file
+       view localhost:8080 in your browser.
+       It's possible to execute with a custom port.
+       Eg: ./server 4500
